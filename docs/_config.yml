@@ -2,8 +2,8 @@
 version: 4.1.0
 name: Jekyll • Simple, blog-aware, static sites
 description: Transform your plain text into static websites and blogs
-url: https://docsmarketingmana.github.io
-repository: https://github.com/webmarketingmana/docsmarketingmana.github.io
+url: https://github.com/webmarketingmana/docs
+repository: https://github.com/webmarketingmana/docs
 timezone: America/Los_Angeles
 twitter:
   username: jekyllrb
