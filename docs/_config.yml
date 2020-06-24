@@ -8,8 +8,8 @@ timezone: America/Los_Angeles
 twitter:
   username: jekyllrb
 logo: "/img/logo-2x.png"
-google_analytics_id: 
-google_site_verification: 
+google_analytics_id:
+google_site_verification:
 collections:
   docs:
     permalink: "/:collection/:path/"
